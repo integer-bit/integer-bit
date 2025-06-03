@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a developer from the United States who is pass
 Here, you'll find projects and experiments that showcase my interests and learning journey. I enjoy tackling challenges, exploring system internals, and diving deep into the world of software development.
 
 ## 🔧 Tools & Technologies
-- **Programming Languages**: Python, Javascript, Typescript, Rust, Csharp, Learning Cpp
+- **Programming Languages**: Python, Javascript, Typescript
 - **Technologies**: Express, Node.js, Svelte
 
 ## 🌱 Currently Learning
